@@ -10,10 +10,10 @@ public class Main {
         }
         method(a);
         for(int w :a){
-            System.out.print(" "+w);
+            System.out.print(w+"  ");
         }
 
-      //  massive(a);
+
 
 
         ArrayList<Integer> list = new ArrayList<>();
